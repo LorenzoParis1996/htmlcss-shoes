@@ -49,3 +49,20 @@ h1.green {
     color: green;
     text-transform: uppercase;
 }
+
+ul {
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    padding-right: 3rem;
+    padding-top: 1rem;
+}
+
+li {
+    font-size: 25px;
+    padding: 0.5rem 1rem;
+    margin: 0 1rem;
+    background-color: white;
+    border-radius: 100%;
+
+}
